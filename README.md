@@ -7,7 +7,7 @@
 - I graduated in "Business Administration" Technician by the institution Centro Paula Souza - ETEC. And currently I am a student of "Systems Analysis and Development" at UNIP (Universidade Paulista).📚💻
 
 
-🌍 I live in Carapicuiba, São Paulo|
+🌍 I live in Carapicuiba, São Paulo
 
 💻 Test Automation Technician I
 
