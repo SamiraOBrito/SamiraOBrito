@@ -12,5 +12,4 @@ I am a Test Automation Technician at Yaman company, responsible for performing F
 
 Where can you find me:👇🏼
 
-
-(https://www.linkedin.com/in/samira-de-oliveira-brito-)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samira-de-oliveira-brito-) [<img src =
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samira-de-oliveira-brito-) [<img src =
