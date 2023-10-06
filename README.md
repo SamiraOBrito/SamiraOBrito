@@ -1,17 +1,17 @@
 ### Hey 👋🙋🏾‍♀️
 
-- My Name is Samira de Oliveira Brito,
+- Meu nome é Samira de Oliveira Brito,
 
-- I am a Test Automation Technician at Yaman company, responsible for performing Functional Tests and Automated Tests, also with experience in: Requirements Gathering; Test Cases Survey; Test case modeling and test case execution; Generation of test proofs and Creation and creation of BDD.👩🏾‍💻✅
+- Sou Analista de Teste Júnior, tenho experiência de 2 anos na área de Qualidade de Software. Conhecimento em elaboração e Levantamento de Requisitos, Levantamento de Casos de Testes e Modelagem de Casos de Testes, Execução de Casos de Testes, Geração de evidências de testes e Criação e elaboração de BDD e MRR, Desenvolvimento de projetos de automação com a ferramenta Tosca Commander da Tricentis e conhecimento em serviços da ferramenta AWS.👩🏾‍💻✅
 
-- I graduated in "Business Administration" Technician by the institution Centro Paula Souza - ETEC. And currently I am a student of "Systems Analysis and Development" at UNIP (Universidade Paulista).📚💻
+- Atualmente sou formada em Análise e Desenvolvimento de Sistemas pela UNIP ( Universidade Paulista) e também sou formada em Técnico em Administração de Empresas pela instituição Centro Paula Souza - ETEC.📚💻
 
 
-🌍 I live in Carapicuiba, São Paulo
+🌍 Eu resido em São Paulo
 
-💻 Test Automation Technician I
+💻 Analista de Teste Júnior 
 
-📌Where can you find me:👇🏼
+📌Onde você pode me achar:👇🏼
 
 ##
 
