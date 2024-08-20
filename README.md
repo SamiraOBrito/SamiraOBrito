@@ -2,7 +2,7 @@
 
 - Meu nome é Samira de Oliveira Brito,
 
-- Sou Analista de Teste Júnior, tenho experiência de 2 anos na área de Qualidade de Software. Conhecimento em elaboração e Levantamento de Requisitos, Levantamento de Casos de Testes e Modelagem de Casos de Testes, Execução de Casos de Testes, Geração de evidências de testes e Criação e elaboração de BDD e MRR, Desenvolvimento de projetos de automação com a ferramenta Tosca Commander da Tricentis e conhecimento em serviços da ferramenta AWS.👩🏾‍💻✅
+- Sou Analista de Teste Júnior, Tenho 3 anos de experiência sólida na área de Qualidade de Software, especializado na garantia da excelência e eficiência dos processos de teste em projetos de desenvolvimento. Durante este período, desenvolvi um conjunto abrangente de competências que me permitem atuar de forma eficaz em todas as etapas do ciclo de testes, desde a definição de requisitos até a execução e automação de testes.👩🏾‍💻✅
 
 - Atualmente sou formada em Análise e Desenvolvimento de Sistemas pela UNIP ( Universidade Paulista) e também sou formada em Técnico em Administração de Empresas pela instituição Centro Paula Souza - ETEC.📚💻
 
